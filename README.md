@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @markhill343
-- 👀 I’m interested in Java, SQL, ABAP, Python, Machine Learing, Automation
-- 🌱 I’m currently learning Python, HTML, CSS, Javascript, Typescript, Angular
+- 👀 I’m interested in Python, Machine Learing and Webdev
+- 🌱 I’m currently learning Typescript, Angular and Vue3
 
